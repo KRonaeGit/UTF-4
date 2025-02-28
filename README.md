@@ -1,7 +1,7 @@
 # UTF-4+
 UTF-4 is a NEW 1~3 byte variable length encoding!
 
-> Do you know?
+> Did you know?
 > 
 > This file is `44.7KB` because it was saved as `UTF-8`,
 > 
