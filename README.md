@@ -40,6 +40,8 @@ For example:
 
 ### Every characters
 Please note that it is right-aligned because it contains Arabic, or etc.
+
+
 ࢀࢁࢂࢃࢄࢅࢆࢇ࢈ࢉࢊࢋࢌࢍࢎ࢏࢐࢑࢒࢓࢔࢕࢖ࢗ࢘
 - ࢚࢛࢜࢝࢞࢟ࢠࢡࢢࢣࢤࢥࢦࢧࢨࢩࢪࢫࢬࢭࢮࢯࢰࢱࢲ
 - ࢴࢵࢶࢷࢸࢹࢺࢻࢼࢽࢾࢿࣀࣁࣂࣃࣄࣅࣆࣇࣈࣉ࣊࣋࣌
