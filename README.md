@@ -1,4 +1,4 @@
-# UTF-4
+# UTF-4+
 UTF-4 is a NEW 1~3 byte variable length encoding!
 
 > Do you know?
@@ -19,10 +19,12 @@ While retaining all the advantages of UTF-8, UTF-4 **can accommodate more charac
 - 3byte: `11xxxxxx xxxxxxxx xxxxxxxx`
 
 ## Advantage?
-- It's **fully ASCII compatible**, just like UTF-8!
+- On average, the **size is reduced by `31.9996%` or `1.4732 bytes`** per character *(for code points 0-4210815)*.
+  If it's 100 characters, it takes up 147.3204 bytes less!
 - UTF-8 can only accommodate `2,164,864` characters,
   while UTF-4 can accommodate `4,210,816` characters! (So UTF-4 is better for accommodating)
 - UTF-8 takes up less space, up to 4 bytes, **while UTF-4 takes up less space, up to 3 bytes!**
+- It's **fully ASCII compatible**, just like UTF-8!
 - UTF-4 is never worse than UTF-8, no matter what the code point value is!
   - It has more efficient when codepoints are in the range 2176–16511 or 67712–4210315:
   - ![image](https://github.com/user-attachments/assets/65468304-b572-45d1-875b-42888f7d112f)
