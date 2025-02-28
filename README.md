@@ -5,7 +5,7 @@ UTF-4 is a NEW 1~3 byte variable length encoding!
 > 
 > This file is `44.5KB` because it was saved as `UTF-8`,
 > 
-> but if you use `UTF-4` it will be **reduced to `30.1KB`**!
+> but if you use `UTF-4` it will be **reduced to `31.1KB`**!
 
 ## Why UTF-4?
 UTF-8, which we mainly use and is an international standard, is a variable length method of 1~4 bytes. (Maximum 4 bytes)
