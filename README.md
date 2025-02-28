@@ -41,4 +41,4 @@ For example:
 - Special characters: Emoji, Circle letters(numbers, alphabets), Unit symbol, Numbers, Math constant symbol, Math symbols, Roman numbers, braille(finger alphabet), 
 
 ### Every characters
-At (Here)[./advantage-characters.txt]
+Every characters that better than UTF-8 is on [Here](./advantage-characters.txt)
