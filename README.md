@@ -3,7 +3,7 @@ UTF-4 is a NEW 1~3 byte variable length encoding!
 
 > Do you know?
 > 
-> This file is `44.5KB` because it was saved as `UTF-8`,
+> This file is `44.7KB` because it was saved as `UTF-8`,
 > 
 > but if you use `UTF-4` it will be **reduced to `31.1KB`**!
 
