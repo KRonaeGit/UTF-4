@@ -1,4 +1,4 @@
-# UTF-4+
+# UTF-4
 UTF-4 is a NEW 1~3 byte variable length encoding!
 
 > Did you know?
