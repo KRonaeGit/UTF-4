@@ -34,11 +34,17 @@ For example:
 - When zombies appear in the world and you need to communicate quickly with the other side of the globe - Im just kidding :)
 
 ## Characters for all code points for which UTF-4 is more efficient than UTF-8
+(Please note that it may contain some extended characters, unused characters, or errors)
+- Languages: Arabic, Pashto, Urdu, Persian, Sanskrit, Hindi, Marathi, Nepali, Bengali, Assamese, Manipuri, Punjabi, Gujarati, Odia (Oriya), Tamil, Telugu, Kannada (Kannada), Malayalam, Sinhala (Sri Lankan), Thai, Lao, Tibetan, Myanmar (Burma), Georgian, Extended Korean, Japanese, Chinese, Extended Latin, Greek, etc
+- Special characters: Emoji, Circle letters(numbers, alphabets), Unit symbol, Numbers, Math constant symbol, Math symbols, Roman numbers, braille(finger alphabet), 
+
+### Every characters
+Please note that it is right-aligned because it contains Arabic, or etc.
 ࢀࢁࢂࢃࢄࢅࢆࢇ࢈ࢉࢊࢋࢌࢍࢎ࢏࢐࢑࢒࢓࢔࢕࢖ࢗ࢘
 - ࢚࢛࢜࢝࢞࢟ࢠࢡࢢࢣࢤࢥࢦࢧࢨࢩࢪࢫࢬࢭࢮࢯࢰࢱࢲ
 - ࢴࢵࢶࢷࢸࢹࢺࢻࢼࢽࢾࢿࣀࣁࣂࣃࣄࣅࣆࣇࣈࣉ࣊࣋࣌
-- ࣏࣐࣑࣒࣓࣎ࣔࣕࣖࣗࣘࣙࣚࣛࣜࣝࣞࣟ࣠࣡࣢ࣣࣦࣤࣥ
-- ࣰࣱࣲࣩ࣭࣮࣯ࣶࣹࣺࣨ࣪࣫࣬ࣳࣴࣵࣷࣸࣻࣼࣽࣾࣿऀ
+-  ࣏࣐࣑࣒࣓࣎ࣔࣕࣖࣗࣘࣙࣚࣛࣜࣝࣞࣟ࣠࣡࣢ࣣࣦࣤࣥ
+-  ࣰࣱࣲࣩ࣭࣮࣯ࣶࣹࣺࣨ࣪࣫࣬ࣳࣴࣵࣷࣸࣻࣼࣽࣾࣿऀ
 - ंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङच
 - जझञटठडढणतथदधनऩपफबभमयरऱलळऴ
 - शषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎ
@@ -91,7 +97,7 @@ For example:
 - ෼෽෾෿฀กขฃคฅฆงจฉชซฌญฎฏฐฑฒณด
 - ถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮ
 - ะัาำิีึืฺุู฻฼฽฾฿เแโใไๅๆ็่
-- ๊๋์ํ๎๏๐๑๒๓๔๕๖๗๘๙๚๛๜๝๞๟๠๡๢
+-  ๊๋์ํ๎๏๐๑๒๓๔๕๖๗๘๙๚๛๜๝๞๟๠๡๢
 - ๤๥๦๧๨๩๪๫๬๭๮๯๰๱๲๳๴๵๶๷๸๹๺๻๼
 - ๾๿຀ກຂ຃ຄ຅ຆງຈຉຊ຋ຌຍຎຏຐຑຒຓດຕຖ
 - ຘນບປຜຝພຟຠມຢຣ຤ລ຦ວຨຩສຫຬອຮຯະ
@@ -103,9 +109,9 @@ For example:
 - ༴༵༶༷༸༹༺༻༼༽༾༿ཀཁགགྷངཅཆཇ཈ཉཊཋཌ
 - ཎཏཐདདྷནཔཕབབྷམཙཚཛཛྷཝཞཟའཡརལཤཥས
 - ཨཀྵཪཫཬ཭཮཯཰ཱཱཱིིུུྲྀཷླྀཹེཻོཽཾཿྀ
-- ྄ྂྃ྅྆྇ྈྉྊྋྌྍྎྏྐྑྒྒྷྔྕྖྗ྘ྙྚ
-- ྜྜྷྞྟྠྡྡྷྣྤྥྦྦྷྨྩྪྫྫྷྭྮྯྰྱྲླྴ
-- ྶྷྸྐྵྺྻྼ྽྾྿࿀࿁࿂࿃࿄࿅࿆࿇࿈࿉࿊࿋࿌࿍࿎
+-  ྄ྂྃ྅྆྇ྈྉྊྋྌྍྎྏྐྑྒྒྷྔྕྖྗ྘ྙྚ
+-  ྜྜྷྞྟྠྡྡྷྣྤྥྦྦྷྨྩྪྫྫྷྭྮྯྰྱྲླྴ
+-  ྶྷྸྐྵྺྻྼ྽྾྿࿀࿁࿂࿃࿄࿅࿆࿇࿈࿉࿊࿋࿌࿍࿎
 - ࿐࿑࿒࿓࿔࿕࿖࿗࿘࿙࿚࿛࿜࿝࿞࿟࿠࿡࿢࿣࿤࿥࿦࿧࿨
 - ࿪࿫࿬࿭࿮࿯࿰࿱࿲࿳࿴࿵࿶࿷࿸࿹࿺࿻࿼࿽࿾࿿ကခဂ
 - ငစဆဇဈဉညဋဌဍဎဏတထဒဓနပဖဗဘမယရလ
