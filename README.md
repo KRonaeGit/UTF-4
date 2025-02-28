@@ -19,7 +19,7 @@ While retaining all the advantages of UTF-8, UTF-4 **can accommodate more charac
 - 3byte: `11xxxxxx xxxxxxxx xxxxxxxx`
 
 ## Advantage?
-- On average, the **size is reduced by `31.9996%` or `1.4732 bytes`** per character *(for code points 0-4210815)*.
+- On average, the **size is reduced by `23.9095%` or `0.9521 bytes`** per character *(for code points 0-1114111)*.
   If it's 100 characters, it takes up 147.3204 bytes less!
 - UTF-8 can only accommodate `2,164,864` characters,
   while UTF-4 can accommodate `4,210,816` characters! (So UTF-4 is better for accommodating)
