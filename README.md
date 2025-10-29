@@ -1,5 +1,5 @@
 # UTF-4
-UTF-4 (i made) is a NEW 1~3 byte variable length encoding!
+UTF-4 (I made) is a NEW 1~3 byte variable length encoding!
 
 ## Why UTF-4?
 UTF-8, which we mainly use and is an international standard, is a variable length method of 1~4 bytes. (Maximum 4 bytes)
