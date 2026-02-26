@@ -1,11 +1,11 @@
 # UTF-4
-UTF-4 (I made) is a NEW 1~3 byte variable length encoding!
+UTF-4 (I made) is a NEW 1~3 byte variable length encoding.
 
 ## Why UTF-4?
 UTF-8, which we mainly use and is an international standard, is a variable length method of 1~4 bytes. (Maximum 4 bytes)
 But in fact, 3 bytes is enough to express all the characters of Unicode.
 
-While retaining all the advantages of UTF-8, UTF-4 **can accommodate more characters in a smaller space than UTF-8!**
+While retaining almost all the advantages of UTF-8, UTF-4 **can accommodate more characters in a smaller space than UTF-8.**
 
 ## Structure?
 - 1byte: `0xxxxxxx`
@@ -33,7 +33,6 @@ This can be used when you need to reduce the size of a file (or packet).
 For example:
 - If you need to transmit or store a lot of text with codepoints in the range 2176–16511 or 67712–4210315.
 - When encrypting text with a complex (resulting in very large size) encryption algorithm
-- When zombies appear in the world and you need to communicate quickly with the other side of the globe (just kidding)
 
 ## Characters for all code points for which UTF-4 is more efficient than UTF-8
 (Please note that it may contain some extended characters, unused characters, or errors)
